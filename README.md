@@ -1,3 +1,3 @@
-ETE Structural Design Program Example 
+ETE Structural Design Program and Example 
 =======================================
 Ex01_Frame_GravityWind.zip
