@@ -1,0 +1,1 @@
+the example for DINOETE
