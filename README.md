@@ -1,3 +1,5 @@
 ETE Structural Design Program and Example 
 =======================================
-Ex01_Frame_GravityWind.zip
+[1]DINOETE 2021 PROGRAM
+[2]DINOETE checkPCName Program
+Dino Email: dino.chen@wsp.com
