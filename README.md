@@ -7,3 +7,4 @@ ETE Structural Design Program and Example
 * checkPCName Program --- user gen pc name key
 
 Dino Email: dino.chen@wsp.com
+            dinochenxuewei@gmail.com
