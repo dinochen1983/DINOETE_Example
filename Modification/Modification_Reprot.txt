@@ -1,2 +1,4 @@
 Date:2021-09-13
-modification:
+modification：
+(1)when generate beam schedules, the 0.25xL have more commas affect csv file format. (beam schedule)
+
