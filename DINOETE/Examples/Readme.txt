@@ -1,1 +1,17 @@
-Readme.txt
+=============================================================
+Date:2021-09-13
+(1)Beam schedule the comma issue, change to be "/"
+(2)Beam Elevation, rebar mark location fixed problem
+(3)Beam Elevation, bot rebar x location change
+=============================================================
+Date:2021-09-14
+(1)Change gen DXF Framing GUI
+=============================================================
+Date:2021-09-16
+(1)Gen Column BD RC detail, dimension style change
+(2)Delete ASD/BD format function
+=============================================================
+Date:2021-09-20
+(1)Gen Framing, Consider rigid zone effect
+(2)load Stru, auto calc beam rigid zone length KpI,KpJ
+(3)Assign Beam properties, add delete beam mark
